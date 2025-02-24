@@ -15,6 +15,9 @@ A simple currency converter web application that allows users to convert between
 - **API**: [ExchangeRate-API](https://v6.exchangerate-api.com/v6/794c5b5fdb42ec8e97eb113b/latest/${currency})
 - **Build Tool**: Vite
 
+## Live Demo
+🚀 The project is live at: [Currency Converter](https://currency-convertor-zeta-orpin.vercel.app/)
+
 ## Installation & Setup
 ### Prerequisites
 - Node.js & npm installed.
@@ -44,7 +47,7 @@ A simple currency converter web application that allows users to convert between
 ## File Structure
 ```
 📚 currency-converter/
-├── 📂 public/        # Static assets (favicon, logo)
+├── 📂 public/        # Static assets (logo)
 ├── 📂 src/
 │   ├── 📂 assets/    # Images & assets
 │   ├── 📂 components/# Reusable UI components (InputBox, etc.)
@@ -81,9 +84,6 @@ No API key is required.
 
 ## Contributors
 - **Aastha Singh** - [GitHub Profile](https://github.com/aastha-sin-09)
-
-## License
-This project is licensed under the MIT License.
 
 ---
 🚀 Happy Coding!
