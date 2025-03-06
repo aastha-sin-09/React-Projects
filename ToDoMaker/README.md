@@ -26,10 +26,10 @@ A modern and user-friendly Todo application built with **React.js** and styled u
 
 ## 📸 Screenshots
 ### Preview 1
-![Preview1](Preview1.png)
+![Preview1](src/assets/Preview1.png)
 
 ### Preview 2
-![Preview2](Preview2.png)
+![Preview2](src/assets/Preview2.png)
 
 ---
 
