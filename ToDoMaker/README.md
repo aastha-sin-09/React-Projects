@@ -24,6 +24,15 @@ A modern and user-friendly Todo application built with **React.js** and styled u
 
 ---
 
+## 📸 Screenshots
+### Preview 1
+![Preview1](Preview1.png)
+
+### Preview 2
+![Preview2](Preview2.png)
+
+---
+
 ## 🚀 Getting Started
 
 ### 📌 Prerequisites
@@ -79,5 +88,4 @@ Ensure you have **Node.js** and **npm** installed on your system.
 - 🎨 **[Tailwind CSS Docs](https://tailwindcss.com/)**
 
 🚀 **Happy Coding!** 🎉 Feel free to contribute by submitting issues or pull requests!
-
 
